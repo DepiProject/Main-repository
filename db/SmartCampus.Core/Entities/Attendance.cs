@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+// test something
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SmartCampus.Core.Entities
@@ -37,3 +38,4 @@ namespace SmartCampus.Core.Entities
         public Student Student { get; set; } = null!;
     }
 }
+
